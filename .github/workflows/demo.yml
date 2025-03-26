@@ -17,3 +17,4 @@ jobs:
           python-version-file: "pyproject.toml"
       - name: RUFF Foramat
         run: uv run ruff format .
+
